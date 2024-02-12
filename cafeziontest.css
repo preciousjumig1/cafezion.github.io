@@ -2,10 +2,11 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
+    background-color: #f5f5f5; /* Light gray background */
 }
 
 header {
-    background-color: #333;
+    background-color: #8b5e3c; /* Clay color */
     color: #fff;
     padding: 20px;
     display: flex;
@@ -70,7 +71,7 @@ form textarea {
 
 form button {
     padding: 10px 20px;
-    background-color: #333;
+    background-color: #8b5e3c; /* Clay color */
     color: #fff;
     border: none;
     border-radius: 5px;
@@ -78,7 +79,7 @@ form button {
 }
 
 footer {
-    background-color: #333;
+    background-color: #8b5e3c; /* Clay color */
     color: #fff;
     text-align: center;
     padding: 20px 0;
